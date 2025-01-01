@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+peewee
+transformers
+tiktoken
+tasks
+#sentencepeice
+torch
+gradio
